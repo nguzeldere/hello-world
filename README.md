@@ -1,3 +1,3 @@
 # hello-world
 deneme 
-bu deneme .ç.ndir.
+bu deneme içindir.
